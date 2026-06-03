@@ -80,9 +80,9 @@ An interactive Power BI dashboard built to analyze Blinkit sales data and genera
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1](screenshots/dashboard1.png)
+![Dashboard 1](dashboard1.png)
 
-![Dashboard 2](screenshots/dashboard2.png)
+![Dashboard 2](dashboard2.png)
 
 ---
 
